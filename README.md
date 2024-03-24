@@ -18,8 +18,7 @@ Welcome to the Ethical Hacking Resources repository! Whether you're a beginner l
 
 If you're new to ethical hacking, start with these resources to understand the foundational concepts:
 
-- [Ethical Hacking - Complete Beginner's Guide](https://www.cyberdegrees.org/resources/beginners-guide-to-hacking/): An introductory guide covering the basics of ethical hacking, including terminology, techniques, and legal considerations.
-- [Hacker101](https://www.hacker101.com/): A free online course platform that covers various topics in ethical hacking, suitable for beginners and intermediate learners.
+![IMG-20240324-WA0015](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/8b1a5512-6f01-43ef-b7e2-9e85fff9c242)
 
 ## Ethical Hacking Basics
 

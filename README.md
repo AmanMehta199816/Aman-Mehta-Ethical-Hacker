@@ -1,4 +1,4 @@
-# Aman-Mehta-Ethical-Hacker
+# Aman-Mehta-Ethical-Hacking
 Ethical Hacking By Aman Mehta 
 # Ethical Hacking Resources Repository
 

@@ -17,7 +17,7 @@ Welcome to the Ethical Hacking Resources repository! Whether you're a beginner l
 ## Getting Started
 
 If you're new to ethical hacking, start with these resources to understand the foundational concepts:
-
+To begin your journey in ethical hacking, start by understanding the fundamentals of networking, operating systems, and cybersecurity. Familiarize yourself with Linux and essential command-line tools, then delve into programming languages like Python for automation and scripting. Explore ethical hacking tools and frameworks, practice in a controlled lab environment, and stay updated with the latest security threats and vulnerabilities. Consider pursuing certifications such as CEH or OSCP to validate your skills. Always adhere to ethical guidelines and legal regulations, ensuring proper authorization before conducting security testing. With continuous learning, practice, and ethical conduct, you can embark on a rewarding career in ethical hacking.
 ![IMG-20240324-WA0015](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/8b1a5512-6f01-43ef-b7e2-9e85fff9c242)
 
 ## Steps 

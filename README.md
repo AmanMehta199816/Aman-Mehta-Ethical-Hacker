@@ -62,6 +62,7 @@ Take your ethical hacking skills to the next level with resources on advanced to
 
 - [Advanced Penetration Testing](https://www.offensive-security.com/pwk-oscp/): Prepare for the Offensive Security Certified Professional (OSCP) certification with the Penetration Testing with Kali Linux (PWK) course, which covers advanced penetration testing techniques.
 - [Red Team Operations](https://www.sans.org/cyber-security-courses/red-team-operations): Learn about red team operations and adversarial attack simulations to test and improve the security posture of organizations.
+![1rPXcTh9YjMcMuRal5](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/64956864-8662-4398-92f4-ec237b037e72)
 
 ## Certifications
 

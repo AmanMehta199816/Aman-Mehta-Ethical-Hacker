@@ -78,7 +78,25 @@ Enhance your skills through online courses and tutorials:
 - [Cybrary](https://www.cybrary.it/): Offers a wide range of free and paid courses on ethical hacking, cybersecurity, and IT.
 - [Udemy](https://www.udemy.com/): Explore various courses on ethical hacking and penetration testing, taught by industry experts.
 
+## Virus Code - @echo
+The `@echo` command is a basic command used in command-line interfaces, including Windows Command Prompt and Unix/Linux terminals. It is used to display text or variables on the console.
 
+In ethical hacking, the `@echo` command can be used within scripts or batch files to display information, debug code, or automate tasks related to security testing or system administration. For example, it can be used to echo messages indicating the progress of a script, display the results of a network scan, or output the status of a security assessment tool.
+
+Here's a simple example of how the `@echo` command can be used in a batch file:
+
+```batch
+@echo off
+echo Welcome to the Ethical Hacking Tool Suite
+echo.
+echo Initiating network scan...
+nmap -sS target_ip
+echo Network scan complete.
+```
+
+In this example, `@echo off` is used to suppress displaying commands on the console, while `echo` statements are used to display messages to the user before and after running the network scan using Nmap.
+
+Remember to always use your ethical hacking skills responsibly and within legal boundaries. Avoid using tools or techniques to cause harm or unauthorized access to systems.
 
 1. **CompTIA Security+**: While not specifically focused on ethical hacking, the Security+ certification covers a broad range of cybersecurity topics, including network security, cryptography, and threat management. It serves as a good foundation for aspiring ethical hackers.
 

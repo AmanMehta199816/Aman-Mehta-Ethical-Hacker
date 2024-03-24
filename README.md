@@ -75,7 +75,7 @@ Enhance your skills through online courses and tutorials:
 
 These certifications provide professionals with the knowledge, skills, and credentials to pursue rewarding careers in ethical hacking and cybersecurity. Each certification has its own prerequisites, exam requirements, and renewal processes, so be sure to research thoroughly and choose the one that aligns best with your career goals.
 
-##Books for Hacking and cybersecurity:
+## Books for Hacking and cybersecurity:
 
 1. **"The Hacker Playbook 3: Practical Guide to Penetration Testing" by Peter Kim**: This book provides hands-on techniques and practical scenarios for conducting penetration testing and security assessments. It covers topics such as reconnaissance, exploitation, and post-exploitation techniques.
 

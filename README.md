@@ -78,11 +78,15 @@ Enhance your skills through online courses and tutorials:
 - [Cybrary](https://www.cybrary.it/): Offers a wide range of free and paid courses on ethical hacking, cybersecurity, and IT.
 - [Udemy](https://www.udemy.com/): Explore various courses on ethical hacking and penetration testing, taught by industry experts.
 
+
+
 ## Virus Code - @echo
 The `@echo` command is a basic command used in command-line interfaces, including Windows Command Prompt and Unix/Linux terminals. It is used to display text or variables on the console.
 
 In ethical hacking, the `@echo` command can be used within scripts or batch files to display information, debug code, or automate tasks related to security testing or system administration. For example, it can be used to echo messages indicating the progress of a script, display the results of a network scan, or output the status of a security assessment tool.
 
+
+![o0vwzuFwCGAFO](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/ab9276c6-e881-4734-b592-07d49834a7be)
 Here's a simple example of how the `@echo` command can be used in a batch file:
 
 ```batch
@@ -135,6 +139,7 @@ These certifications provide professionals with the knowledge, skills, and crede
 8. **"The Art of Deception: Controlling the Human Element of Security" by Kevin D. Mitnick and William L. Simon**: Written by former hacker Kevin Mitnick, this book explores the psychological aspects of security breaches and how human vulnerabilities can be exploited by attackers.
 
 These books cover a wide range of topics in ethical hacking, cybersecurity, and penetration testing. Whether you're a beginner or an experienced professional, there's valuable knowledge to be gained from each of these resources. Happy reading and learning!
+
 
 ## Community and Forums
 

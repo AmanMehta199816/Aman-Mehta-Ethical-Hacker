@@ -149,6 +149,8 @@ These books cover a wide range of topics in ethical hacking, cybersecurity, and 
 
 
 ## Community and Forums
+![pqOAGtjyqV2JW](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/98575d63-63b9-48e3-a7c2-9601b610b67d)
+
 
 Engage with the ethical hacking community, ask questions, and share knowledge:
 

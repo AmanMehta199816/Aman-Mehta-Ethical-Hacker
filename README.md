@@ -46,6 +46,8 @@ To begin your journey in ethical hacking, start by understanding the fundamental
 
 10. **Ethical Guidelines**: Always adhere to ethical guidelines and legal regulations when performing security testing. Obtain proper authorization before conducting penetration tests or security assessments, and ensure that you have permission to test systems and networks.
 
+![PnISKyqE3HOJ1Izu6U](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/1a38e3dc-a9ba-4c8e-835a-9a9abd4b6907)
+
 Remember that ethical hacking is a skill that requires continuous learning, practice, and ethical conduct. Start with the basics, gradually build your skills, and always approach hacking with a responsible and ethical mindset.
 ## Ethical Hacking Basics
 

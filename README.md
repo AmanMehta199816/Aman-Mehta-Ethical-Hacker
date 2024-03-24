@@ -69,6 +69,7 @@ Validate your skills and knowledge with industry-recognized certifications:
 
 - [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/): A certification program that covers ethical hacking techniques, tools, and methodologies.
 - [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/pwk-oscp/): A hands-on certification that requires candidates to pass a challenging 24-hour practical exam demonstrating their penetration testing skills.
+![lpjtTOXa1HxtUa6Cvc](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/018c1ddc-8b93-4d66-86b3-44e56003d152)
 
 ## Tools and Software
 

@@ -139,6 +139,8 @@ These certifications provide professionals with the knowledge, skills, and crede
 8. **"The Art of Deception: Controlling the Human Element of Security" by Kevin D. Mitnick and William L. Simon**: Written by former hacker Kevin Mitnick, this book explores the psychological aspects of security breaches and how human vulnerabilities can be exploited by attackers.
 
 These books cover a wide range of topics in ethical hacking, cybersecurity, and penetration testing. Whether you're a beginner or an experienced professional, there's valuable knowledge to be gained from each of these resources. Happy reading and learning!
+
+
 ![rMS1sUPhv95f2](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/2c023b56-2c97-43fd-97fe-bf1b71d5447c)
 
 

@@ -129,7 +129,9 @@ Remember to always use your ethical hacking skills responsibly and within legal 
 7. **GIAC Certified Penetration Tester (GPEN)**: Offered by the Global Information Assurance Certification (GIAC), the GPEN certification validates professionals' ability to conduct penetration testing engagements and identify security vulnerabilities in networks, systems, and applications.
 
 8. **GIAC Web Application Penetration Tester (GWAPT)**: This certification focuses specifically on web application penetration testing. It covers topics such as web application security, injection attacks, and authentication bypass techniques.
+
 ![imSXng5oHazkITOZLZ (1)](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/e9dab337-e536-410d-8802-67d8b5a489c7)
+
 These certifications provide professionals with the knowledge, skills, and credentials to pursue rewarding careers in ethical hacking and cybersecurity. Each certification has its own prerequisites, exam requirements, and renewal processes, so be sure to research thoroughly and choose the one that aligns best with your career goals.
 
 ## Books for Hacking and cybersecurity:

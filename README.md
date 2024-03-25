@@ -131,6 +131,8 @@ Remember to always use your ethical hacking skills responsibly and within legal 
 8. **GIAC Web Application Penetration Tester (GWAPT)**: This certification focuses specifically on web application penetration testing. It covers topics such as web application security, injection attacks, and authentication bypass techniques.
 
 These certifications provide professionals with the knowledge, skills, and credentials to pursue rewarding careers in ethical hacking and cybersecurity. Each certification has its own prerequisites, exam requirements, and renewal processes, so be sure to research thoroughly and choose the one that aligns best with your career goals.
+![3o7btWjSvkFHHoJX0s (2)](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/d634f02a-7dae-4bfe-8743-f05a809b7678)
+
 
 ## Books for Hacking and cybersecurity:
 
@@ -139,6 +141,9 @@ These certifications provide professionals with the knowledge, skills, and crede
 2. **"Hacking: The Art of Exploitation" by Jon Erickson**: A classic in the field of ethical hacking, this book delves into the technical aspects of hacking, including programming, network attacks, and exploit development. It's suitable for readers with some programming background.
 
 3. **"Penetration Testing: A Hands-On Introduction to Hacking" by Georgia Weidman**: This book offers a beginner-friendly introduction to penetration testing and ethical hacking. It covers basic to advanced techniques, with hands-on exercises using the Kali Linux operating system.
+
+![XGbU8CyGpRdgh5wY4f](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/7816a756-47ee-415c-9eaa-b9d46b01db20)
+
 
 4. **"The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws" by Dafydd Stuttard and Marcus Pinto**: Focused on web application security, this book provides in-depth coverage of common vulnerabilities and attack techniques. It's essential for anyone interested in web application penetration testing.
 
@@ -153,7 +158,7 @@ These certifications provide professionals with the knowledge, skills, and crede
 These books cover a wide range of topics in ethical hacking, cybersecurity, and penetration testing. Whether you're a beginner or an experienced professional, there's valuable knowledge to be gained from each of these resources. Happy reading and learning!
 
 
-![rMS1sUPhv95f2](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/2c023b56-2c97-43fd-97fe-bf1b71d5447c)
+
 
 
 ## Community and Forums

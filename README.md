@@ -7,6 +7,7 @@ Ethical Hacking By Aman Mehta
 # Ethical Hacking Resources Repository
 
 Welcome to the Ethical Hacking Resources repository! Whether you're a beginner looking to get started in the field of cybersecurity or an experienced professional seeking advanced techniques and tools, this repository aims to provide you with a curated list of resources to enhance your knowledge and skills in ethical hacking.
+![QDaPv3yaM2oT8QsMJR](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/2d69d8c6-a5a7-4f68-9217-860dc9edcad0)
 
 ## Table of Contents
 

@@ -135,15 +135,14 @@ Remember to always use your ethical hacking skills responsibly and within legal 
 These certifications provide professionals with the knowledge, skills, and credentials to pursue rewarding careers in ethical hacking and cybersecurity. Each certification has its own prerequisites, exam requirements, and renewal processes, so be sure to research thoroughly and choose the one that aligns best with your career goals.
 
 ## Books for Hacking and cybersecurity:
+![XGbU8CyGpRdgh5wY4f](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/deb1ef0d-4976-4ecb-a1bc-27b80339c3ef)
+
 
 1. **"The Hacker Playbook 3: Practical Guide to Penetration Testing" by Peter Kim**: This book provides hands-on techniques and practical scenarios for conducting penetration testing and security assessments. It covers topics such as reconnaissance, exploitation, and post-exploitation techniques.
 
 2. **"Hacking: The Art of Exploitation" by Jon Erickson**: A classic in the field of ethical hacking, this book delves into the technical aspects of hacking, including programming, network attacks, and exploit development. It's suitable for readers with some programming background.
 
 3. **"Penetration Testing: A Hands-On Introduction to Hacking" by Georgia Weidman**: This book offers a beginner-friendly introduction to penetration testing and ethical hacking. It covers basic to advanced techniques, with hands-on exercises using the Kali Linux operating system.
-
-![XGbU8CyGpRdgh5wY4f](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/7816a756-47ee-415c-9eaa-b9d46b01db20)
-
 
 4. **"The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws" by Dafydd Stuttard and Marcus Pinto**: Focused on web application security, this book provides in-depth coverage of common vulnerabilities and attack techniques. It's essential for anyone interested in web application penetration testing.
 

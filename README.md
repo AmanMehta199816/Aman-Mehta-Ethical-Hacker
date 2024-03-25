@@ -18,7 +18,7 @@ Welcome to the Ethical Hacking Resources repository! Whether you're a beginner l
 6. [Courses and Tutorials](#courses-and-tutorials)
 7. [Community and Forums](#community-and-forums)
 
-![AeHLxU7TZXCPS](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/5edd7514-440d-49b9-b4e0-0c8d6edf4122)
+![7tY9MbVlkLHmo](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/1ee013b4-22da-41c5-9c12-53fe76161a60)
 
 ## Getting Started
 

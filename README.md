@@ -80,6 +80,7 @@ Explore a variety of tools and software used in ethical hacking:
 
 - [Kali Linux](https://www.kali.org/): A Linux distribution specifically designed for penetration testing and ethical hacking.
 - [Metasploit](https://www.metasploit.com/): An open-source penetration testing framework that provides exploit development, post-exploitation, and evasion modules.
+
 ![SVTghuuetDdChg6qXq](https://github.com/AmanMehta199816/Aman-Mehta-Ethical-Hacker/assets/96304523/34077a39-caf7-4248-80bd-db0f85f58de6)
 
 ## Courses and Tutorials
